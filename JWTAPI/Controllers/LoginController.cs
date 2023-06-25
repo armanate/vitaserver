@@ -1,0 +1,57 @@
+namespace JWTAPI.Controllers;
+
+[ApiController]
+[Route("api/")]
+public class AuthController : ControllerBase
+{
+    private readonly IMapper _mapper;
+    private readonly IAuthenticationService _authenticationService;
+
+    public AuthController(IMapper mapper, IAuthenticationService authenticationService)
+    {
+        _authenticationService = authenticationService;
+        _mapper = mapper;
+    }
+
+    [HttpPost("login")]
+    public async Task<IActionResult> LoginAsync(
+        [FromBody] UserLogin userCredentials)
+    {
+        var response = await _authenticationService
+            .CreateAccessTokenAsync(userCredentials.Username, userCredentials.Password);
+
+        if (!response.Success)
+        {
+            return BadRequest(response.Message);
+        }
+
+        var accessTokenResource = _mapper.Map<AccessToken, AccessTokenResource>(response.Token);
+
+        return Ok(accessTokenResource);
+    }
+
+    [HttpPost("token/refresh")]
+    public async Task<IActionResult> RefreshTokenAsync(
+        [FromBody] RefreshTokenResource refreshTokenResource)
+    {
+        var response = await _authenticationService
+            .RefreshTokenAsync(refreshTokenResource.Token, refreshTokenResource.UserName);
+       
+        if (!response.Success)
+        {
+            return BadRequest(response.Message);
+        }
+
+        var tokenResource = _mapper.Map<AccessToken, AccessTokenResource>(response.Token);
+
+        return Ok(tokenResource);
+    }
+
+    [HttpPost("token/revoke")]
+    public IActionResult RevokeToken([FromBody] RevokeTokenResource resource)
+    {
+        _authenticationService.RevokeRefreshToken(resource.Token, resource.UserName);
+        return NoContent();
+    }
+    
+}

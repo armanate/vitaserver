@@ -1,0 +1,552 @@
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\appsettings.json
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.exe
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.deps.json
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.runtimeconfig.json
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.pdb
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\AutoMapper.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Humanizer.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.csproj.AssemblyReference.cache
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.AssemblyInfoInputs.cache
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.AssemblyInfo.cs
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.csproj.CoreCompileInputs.cache
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\scopedcss\bundle\JWTAPI.styles.css
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.csproj.CopyComplete
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\refint\JWTAPI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.pdb
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.genruntimeconfig.cache
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\ref\JWTAPI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NetTopologySuite.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\MessagePack.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Build.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Common.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Scrypt.dll
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.JWTAPI.Microsoft.AspNetCore.StaticWebAssets.props
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.JWTAPI.props
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JWTAPI.props
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JWTAPI.props
+H:\CodeProject\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.exe
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.deps.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.runtimeconfig.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\JWTAPI.pdb
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Scrypt.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.csproj.AssemblyReference.cache
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.AssemblyInfoInputs.cache
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.AssemblyInfo.cs
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.JWTAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.JWTAPI.props
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JWTAPI.props
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JWTAPI.props
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\scopedcss\bundle\JWTAPI.styles.css
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.csproj.CopyComplete
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\refint\JWTAPI.dll
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.pdb
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\JWTAPI.genruntimeconfig.cache
+C:\Users\Arman\Documents\Visual Studio 2022\Projects\Hooman7k_Ponisha\src\JWTAPI\JWTAPI\obj\Debug\net6.0\ref\JWTAPI.dll
